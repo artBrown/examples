@@ -1,5 +1,5 @@
 {
-  "template": "twitter_elastic_example",
+  "template": "rt1",
   "order": 1,
   "settings": {
     "number_of_shards": 1
