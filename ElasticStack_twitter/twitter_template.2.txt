@@ -1,0 +1,2 @@
+https://bigdataum.wordpress.com/2016/01/24/twitter-streaming-using-elk/
+// appeared same with twitter_template.1.json
